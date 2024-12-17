@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "name": "Minsk",
+        "country": "Belarus",
+        "is_big": true,
+        "people_count": 2000000
+    },
+    {
+        "id": "3",
+        "name": "Boranovichi",
+        "country": "Belarus",
+        "is_big": false,
+        "people_count": 171000
+    },
+    {
+        "id": "4",
+        "name": "Paris",
+        "country": "Frans",
+        "is_big": true,
+        "people_count": 2102000
+    },
+    {
+        "id": "5",
+        "name": "Warsaw",
+        "country": "Poland",
+        "is_big": true,
+        "people_count": 1800000
+    }
+]
